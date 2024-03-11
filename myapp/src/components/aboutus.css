@@ -1,0 +1,52 @@
+
+
+  /* Style the container for the About Us section */
+  .about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+
+  /* Style the heading */
+  .about-heading {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  /* Style the paragraph text */
+  .about-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+  /* Style the button */
+  .about-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #0a043c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  /* Style the button hover effect */
+  .about-button:hover {
+    background-color: #0a043c;
+  }
+
+  /* Style the link */
+  .about-link {
+    color: #ff6600;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  /* Style the link hover effect */
+  .about-link:hover {
+    text-decoration: underline;
+  }

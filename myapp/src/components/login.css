@@ -140,3 +140,11 @@
 .switch a:hover {
   text-decoration: underline;
 }
+
+.login button {
+  /* margin-top: -20px; */
+  width: 20%;
+  padding: 10px  20px;
+  color:#18097b;
+  background-color:white;
+}
